@@ -1,0 +1,203 @@
+1.
+Question 1
+What is an example of a Univariate time series?
+
+
+1 / 1 point
+
+Hour by hour weather   
+
+
+
+Baseball scores
+
+
+
+* Hour by hour temperature
+
+
+
+Fashion items
+
+
+Correct
+2.
+Question 2
+What is an example of a Multivariate time series?
+
+
+1 / 1 point
+
+* Hour by hour weather 
+
+
+
+Hour by hour temperature 
+
+
+
+Baseball scores
+
+
+
+Fashion items
+
+
+Correct
+3.
+Question 3
+What is imputed data?
+
+
+
+
+1 / 1 point
+
+Data that has been withheld for various reasons
+
+
+
+A good prediction of future data
+
+
+
+A bad prediction of future data
+
+
+
+* A projection of unknown (usually past or missing) data
+
+
+Correct
+4.
+Question 4
+A sound wave is a good example of time series data
+
+
+
+
+1 / 1 point
+
+False
+
+
+* True
+
+
+Correct
+5.
+Question 5
+What is Seasonality?
+
+
+1 / 1 point
+
+Data aligning to the 4 seasons of the calendar
+
+
+Data that is only available at certain times of the year
+
+
+
+Weather data
+
+
+
+* A regular change in shape of the data
+
+Correct
+6.
+Question 6
+What is a trend?
+
+
+1 / 1 point
+
+* An overall direction for data regardless of direction
+
+
+
+An overall consistent flat direction for data
+
+
+
+An overall consistent upward direction for data
+
+
+
+An overall consistent downward direction for data
+
+
+Correct
+7.
+Question 7
+In the context of time series, what is noise?
+
+
+
+
+1 / 1 point
+
+Data that doesn’t have a trend
+
+
+
+Sound waves forming a time series
+
+
+
+Data that doesn’t have seasonality
+
+
+
+* Unpredictable changes in time series data
+
+
+Correct
+8.
+Question 8
+What is autocorrelation?
+
+
+1 / 1 point
+
+* Data that follows a predictable shape, even if the scale is different
+
+
+
+Data that automatically lines up in trends
+
+
+
+Data that automatically lines up seasonally
+
+
+
+Data that doesn’t have noise
+
+
+Correct
+9.
+Question 9
+What is a non-stationary time series?
+
+
+
+1 / 1 point
+
+One that has a constructive event forming trend and seasonality.
+
+
+
+One that is consistent across all seasons.
+
+
+
+* One that has a disruptive event breaking trend and seasonality. 
+
+
+
+One that moves seasonally.
+
+
+Correct
